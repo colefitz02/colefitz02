@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning HTML/CSS 🤔
 
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colefitz02&show_icons=true&theme=cobalt)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=colefitz02&show_icons=true&theme=merko)
