@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Cole
+## Hi there 👋, I'm Cole
 
 - 🔭 I’m currently working on securing a summer internship/post-grad job.
 
